@@ -9,12 +9,6 @@
         ]
     },
     "appclips": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "53Q6R32WPB.com.hammerandchisel.discord.InviteAppClip",
-                "paths": ["*"]
-            }
-        ]
+        "apps": ["53Q6R32WPB.com.hammerandchisel.discord.InviteAppClip"]
     }
 }
